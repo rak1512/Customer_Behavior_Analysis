@@ -1,1 +1,1 @@
-# Customer_Behavior_Analysis
+End-to-end customer behavior analysis using Python, PostgreSQL, and Power BI. Cleaned and transformed data, engineered features like age_group and purchase_frequency_days, and built dashboards to analyze revenue, segmentation, discounts, and customer trends for data-driven insights.
